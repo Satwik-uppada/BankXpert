@@ -24,10 +24,7 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>src/main/java</sourceDirectory>
-        <resourcesDirectory>src/main/resources</resourcesDirectory>
-        <testSourceDirectory>src/test/java</testSourceDirectory>
-        <testResourcesDirectory>src/test/resources</testResourcesDirectory>
+        <sourceDirectory>/main/BankXpert.java</sourceDirectory>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
